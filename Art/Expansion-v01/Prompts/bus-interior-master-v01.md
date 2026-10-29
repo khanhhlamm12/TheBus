@@ -1,0 +1,9 @@
+# bus-interior-master-v01
+
+Tool: built-in ImageGen. Art source: host_image.
+
+Use case: stylized-concept. Expand the APPROVED reference board into ONE isolated environment master concept, retaining its handcrafted dark pixel art, large readable pixel clusters, worn teal upholstery, ochre brass, almost-black blue shadows and muted warm lights.
+Reference is style and materials only. Do NOT reproduce its collage or seat count.
+Create a tall portrait canvas containing ONE complete old night bus interior, roof removed, strict straight overhead plan view, front at top. No people. Exactly TWELVE SINGLE passenger seats: six clearly separated rows, one individual seat left and one individual seat right of an unobstructed central aisle. NO double-width benches, NO extra passenger seat. Each individual seat faces forward toward top of canvas. Distinct small driver's seat in enclosed front cabin is NOT a passenger seat. Cabin at top contains wheel and instrument panel. Two passenger door recesses along right outer wall: front entrance next to cabin and rear exit below the sixth passenger row. Provide walking clearance from aisle to both doors. One small electrical service cabinet built into rear wall. Put a small red emergency switch on wall at middle of aisle. Narrow rain-streaked dark windows line sidewalls.
+Entire vehicle fully visible with modest empty dark margin, no cropping. No exterior road, no surrounding environment, no text, no logos, no labels, no UI. Softness forbidden: lighting described by hard pixel clusters and restrained dithering. No perspective vanishing point, no isometric angle, no people, no characters. Single flat opaque reference plate, not tiled or claimed as layered runtime art. Keep dark but floor/seat edges readable. Hand-drawn pixel horror, not photorealistic.
+

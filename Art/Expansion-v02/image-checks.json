@@ -1,0 +1,44 @@
+[
+  {
+    "File": "passenger-cast-extended-v01.png",
+    "Width": 2172,
+    "Height": 724,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "D90965A59B7D20F47FE3FCEE3F50353E8E8C4B95F7BAB9F8CFB2F1D6907492DB"
+  },
+  {
+    "File": "route-landmarks-v01.png",
+    "Width": 1536,
+    "Height": 1024,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "76C9809FAE8CBEDE666937977E8791626494B16AAFBBB8A8B0C0063B1061B123"
+  },
+  {
+    "File": "anomaly-evidence-v01.png",
+    "Width": 1278,
+    "Height": 1230,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "CEA6D9A6B7DCF777BD85E612044B6CB8609688C529CD0E6BDC7682219D84692A"
+  },
+  {
+    "File": "bus-fixtures-v01.png",
+    "Width": 1536,
+    "Height": 1024,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "1F3C50306CD0326B1987B82F2929CCE16BF7A72B221B8F839676C8A3445B470A"
+  },
+  {
+    "File": "lost-property-v01.png",
+    "Width": 1448,
+    "Height": 1086,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "6FB6F8B74BA2CA077C9D8E028D40DE5C6270A111047975FA0363B8F809BFE3C4"
+  },
+  {
+    "File": "inspection-ui-v01.png",
+    "Width": 1672,
+    "Height": 941,
+    "PixelFormat": "Format24bppRgb",
+    "SHA256": "B1AD010A5E2259CB88D3EF8BCDF9165DEE9BE08DFB79C90FC398A61882C1DD1B"
+  }
+]
