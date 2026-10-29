@@ -1,0 +1,64 @@
+# Unity-generated caches and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build outputs
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Local diagnostics
+*.log
+*.pid
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity tooling caches
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and agent configuration
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.keystore
+*.jks
+/.aws/
+/.codex/
+/.agents/
+
+# Keep Assets (including .meta), Art, Packages, ProjectSettings and documentation.

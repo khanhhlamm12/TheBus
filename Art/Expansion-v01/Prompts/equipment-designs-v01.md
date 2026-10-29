@@ -1,0 +1,9 @@
+# equipment-designs-v01
+
+Tool: built-in ImageGen. Art source: host_image.
+
+Use case: stylized-concept. ONE equipment design board expanding the supplied approved night-bus pixel-art style reference. Match handcrafted dark pixel clusters, stepped contours, restrained dithering, worn ochre metal, navy rubber, dirty cream paper, desaturated teal. Eight isolated object design studies arranged clearly in a tidy 4 columns by 2 rows on a flat very dark blue background. Equal generously separated cells, no props touching dividers. Consistent three-quarter product-view angle and scale appropriate to handheld tools, upper-left highlights.
+TOP ROW left to right: 1 short cylindrical handheld UV inspection flashlight with black rubber grip and three small violet LEDs, 2 small rectangular hand mirror with scratched brass frame and dark handle, 3 HANDHELD ticket reader about walkie-talkie size, ochre worn casing with card slot and narrow blank amber screen, 4 folded aged rulebook, cloth spine and paper bookmark with blank cover.
+BOTTOM ROW left to right: 5 contact pulse sensor finger clip linked by a short neatly coiled cable to a small analog meter, 6 compact replaceable battery pack with two chunky terminals, 7 simple teal first-aid metal tin with ivory medical cross, 8 wall-mounted red emergency toggle switch in battered brass guard.
+No lettering, no labels, no gibberish text, no logos, no hands, no background room, no decorative clutter. Distinct practical silhouettes, convincing worn materials, no oversized sci-fi equipment, no modern touchscreen. Small violet glow only close to UV LEDs, otherwise no bloom or soft airbrush. Objects must read as pixel art rather than smooth painted illustrations. This is an equipment concept board to guide later separate transparent exports, NOT an automatic-ready sprite atlas.
+

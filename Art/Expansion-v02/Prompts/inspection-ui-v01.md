@@ -1,0 +1,9 @@
+# inspection-ui-v01
+
+Tool: built-in ImageGen. Art source: host_image.
+Reference: Art/Concepts/dark-pixel-style-board-v01.png (approved style).
+
+Use case: ui-mockup. ONE polished full-screen 16:9 concept mockup of the FIRST-PERSON PASSENGER INSPECTION screen for the approved handcrafted dark pixel-art night-bus game. Closely follow the attached reference's character, weathered metal, palette, crisp square pixel clusters and warm small lamps. Not photorealistic, no smooth gradient painting, no 3D render.
+Layout: upper central 55 percent of screen is a frontal seated male passenger portrait in worn brown coat, face and BOTH hands clearly visible, teal bus seat, rain window behind. Left vertical 20 percent contains a plain cream ticket on a flat inspection tray and a short open paper rulebook with empty horizontal ruled lines. Right vertical 25 percent contains a brass-framed blank monochrome green instrument screen, a small analog pulse meter below, and three small empty rectangular evidence slots. Bottom horizontal tool tray contains FOUR separated clearly readable tools: UV flashlight, rectangular mirror, small ticket reader, closed rulebook. Below the tray, three LARGE wide button frames, visually distinct using muted teal, ochre and brick, each with a blank uncluttered center to add Vietnamese labels later.
+A compact segmented battery gauge and simple round analog clock in upper left corner. Tool panels should look practical, bolted, chipped and used, with thin borders, not ornate. Prioritize quiet clean interior surfaces for readable future UI text; weathering concentrates on edges. No cursor, no modern glossy widgets, no tiny unreadable numbers. NO generated text, letters or labels anywhere; leave text zones blank. No monster evidence visible yet, no gore. This is a visual UI concept, not functioning software.
+

@@ -1,0 +1,11 @@
+PASS movement
+PASS seat collision
+PASS nearest passenger interaction
+PASS movement locked during inspection
+PASS mirror records evidence
+PASS evidence persists
+PASS cancel keeps cost but no false evidence
+PASS pause freezes tools
+PASS UV completes
+PASS single isolation slot
+PASS one EventSystem
